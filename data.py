@@ -4,7 +4,7 @@ import pygame
 pygame.init()
 
 # Change for each update made (Michael I know you are reading this)
-UPDATE_LOG = '0.0.1'
+UPDATE_LOG = '0.0.2'
 
 OB_EVENTS = "MENU" # An variable holding the game current events being show to the player
 
